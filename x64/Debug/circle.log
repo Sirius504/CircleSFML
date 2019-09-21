@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\Programs\source\repos\circle\src\main.cpp(21,75): warning C4244:  аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+E:\Programs\source\repos\circle\src\main.cpp(21,75): warning C4244:         with
+E:\Programs\source\repos\circle\src\main.cpp(21,75): warning C4244:         [
+E:\Programs\source\repos\circle\src\main.cpp(21,75): warning C4244:             T=float
+E:\Programs\source\repos\circle\src\main.cpp(21,75): warning C4244:         ]
+E:\Programs\source\repos\circle\src\main.cpp(21,58): warning C4244:  аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+E:\Programs\source\repos\circle\src\main.cpp(21,58): warning C4244:         with
+E:\Programs\source\repos\circle\src\main.cpp(21,58): warning C4244:         [
+E:\Programs\source\repos\circle\src\main.cpp(21,58): warning C4244:             T=float
+E:\Programs\source\repos\circle\src\main.cpp(21,58): warning C4244:         ]
+  circle.vcxproj -> E:\Programs\source\repos\circle\x64\Debug\circle.exe
