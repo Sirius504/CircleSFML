@@ -1,2 +1,2 @@
 # CircleSFML
-Circle in a middle of the screen.
+Just a circle in a middle of the screen.
